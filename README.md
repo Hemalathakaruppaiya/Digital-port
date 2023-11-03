@@ -119,7 +119,7 @@
 
     <section id="education">
         <div class="section-content">
-            <h2>E
+            <h2>
             </h2>
             <p>Bharathidasan University  - Electrical &BCA</p>
         </div>
